@@ -24,28 +24,16 @@ def main():
         stock_differences = []
         count1 = 0
         count2 = 1
-        while count1 < len(volumes_integers)-1:
+        while count1 < len(volumes_integers) - 1:
             difference = volumes_integers[count2] - volumes_integers[count1]
             stock_differences.append(difference)
             count1 += 1
             count2 += 1
-        print(f"Volume length: {len(volumes_integers)}")
-        print(f"Differences : {len(stock_differences)}")
-        print(f"Stock dates: {len(stock_list)}")
         stock_list.pop(0)
         stock_diff_dict = dict(zip(stock_list, stock_differences))
         stock_diff_list = sorted(stock_diff_dict.items(), key=lambda x: x[1])
         print(f"Day with the biggest inter-day rise: {stock_diff_list[-1]}")
         print(f"Day with the biggest inter-day fall: {stock_diff_list[0]}")
-        print(stock_differences)
-        my_max = stock_differences[0]
-        for i in range(len(stock_differences)-2):
-            if stock_differences[i - 1] < stock_differences[i] < stock_differences[i + 1] :
-                print(stock_differences[i], stock_differences[i+1], stock_differences[i+1]-stock_differences[i])
-
-
-
-        
 
         return 0
 
