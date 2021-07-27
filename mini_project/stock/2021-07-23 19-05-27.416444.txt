@@ -1,0 +1,4 @@
+Switch	58
+Glasses	83
+Sand_paper	35
+Argon_gas	9

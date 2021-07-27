@@ -1,0 +1,3 @@
+Finishings	7
+Frame_prod	1
+Electric_prod	1

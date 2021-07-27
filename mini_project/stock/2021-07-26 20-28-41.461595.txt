@@ -1,0 +1,2 @@
+Rubbers	20
+Body_filler	81

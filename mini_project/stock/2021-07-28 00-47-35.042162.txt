@@ -1,0 +1,3 @@
+Switch	12
+Reflectors	41
+Window_locks	28

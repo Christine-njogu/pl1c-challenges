@@ -1,0 +1,4 @@
+Adhesives	53
+Bulbs	28
+Accessories	81
+Argon_gas	16

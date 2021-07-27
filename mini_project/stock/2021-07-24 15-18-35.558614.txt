@@ -1,0 +1,3 @@
+Adhesives	12
+Glasses	22
+Electrical_wires	89

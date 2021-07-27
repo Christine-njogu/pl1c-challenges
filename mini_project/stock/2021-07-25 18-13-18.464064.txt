@@ -1,0 +1,4 @@
+Channels	35
+Mig_wire	66
+Carpet	61
+Window_locks	74

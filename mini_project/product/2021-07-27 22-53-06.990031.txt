@@ -1,0 +1,2 @@
+Glass_prod	5
+Paint_prod	6

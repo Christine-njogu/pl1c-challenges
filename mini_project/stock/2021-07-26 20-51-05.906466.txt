@@ -1,0 +1,5 @@
+Body_filler	87
+Argon_gas	18
+Angle_irons	88
+Window_locks	17
+Paints	32

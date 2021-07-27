@@ -1,0 +1,5 @@
+Mig_wire	81
+Channels	77
+Accessories	84
+Grinding_discs	55
+Insulation_tapes	58

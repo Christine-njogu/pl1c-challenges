@@ -1,0 +1,4 @@
+Insulation_tapes	7
+Primer	2
+Fasteners	2
+Sand_paper	6

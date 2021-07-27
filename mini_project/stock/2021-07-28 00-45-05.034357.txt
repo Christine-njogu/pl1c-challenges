@@ -1,0 +1,4 @@
+Sand_paper	9
+Adhesives	29
+Electrical_wires	86
+Channels	60

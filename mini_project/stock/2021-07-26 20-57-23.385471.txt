@@ -1,0 +1,2 @@
+Thinner	64
+Electrical_wires	46

@@ -1,0 +1,5 @@
+Bulbs	93
+Aluminum_mouldings	75
+Sand_paper	87
+Drill_bits	12
+Galvanised_sheets	68

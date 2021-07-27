@@ -1,0 +1,5 @@
+Paints	42
+Electrical_wires	61
+Reflectors	54
+Aluminum_mouldings	39
+Bulbs	18

@@ -1,0 +1,2 @@
+Fasteners	56
+Argon_gas	44

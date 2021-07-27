@@ -1,0 +1,2 @@
+Paints	38
+Insulation_tapes	38

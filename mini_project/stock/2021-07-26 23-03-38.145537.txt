@@ -1,0 +1,3 @@
+Tubes	69
+Mig_wire	6
+Argon_gas	12

@@ -1,0 +1,4 @@
+Pop_rivets	65
+Primer	42
+Argon_gas	22
+Drill_bits	49

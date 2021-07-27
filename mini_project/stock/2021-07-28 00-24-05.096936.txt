@@ -1,0 +1,3 @@
+Window_locks	43
+Grinding_discs	68
+Thinner	95

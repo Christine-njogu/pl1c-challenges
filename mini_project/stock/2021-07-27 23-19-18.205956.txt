@@ -1,0 +1,3 @@
+Rubbers	16
+Tubes	50
+Body_filler	1

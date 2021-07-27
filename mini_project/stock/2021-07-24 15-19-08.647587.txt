@@ -1,0 +1,4 @@
+Adhesives	72
+Rubbers	57
+Channels	80
+Tubes	77

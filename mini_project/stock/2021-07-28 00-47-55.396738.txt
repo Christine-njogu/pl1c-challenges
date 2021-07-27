@@ -1,0 +1,4 @@
+Bulbs	28
+Switch	8
+Fasteners	37
+Welding_rods	6

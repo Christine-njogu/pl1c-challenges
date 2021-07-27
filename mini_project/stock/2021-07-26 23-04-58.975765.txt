@@ -1,0 +1,3 @@
+Paints	92
+Window_locks	21
+Bulbs	41

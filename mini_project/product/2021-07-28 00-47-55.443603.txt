@@ -1,0 +1,2 @@
+Electric_prod	9
+Glass_prod	4

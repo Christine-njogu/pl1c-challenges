@@ -1,0 +1,3 @@
+Budget_locks	64
+Adhesives	24
+Fasteners	78

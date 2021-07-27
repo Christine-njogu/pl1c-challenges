@@ -1,0 +1,4 @@
+Carpet	34
+Body_filler	71
+Mig_wire	1
+Adhesives	81

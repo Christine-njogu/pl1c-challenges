@@ -1,0 +1,4 @@
+Electrical_wires	37
+Bulbs	30
+Paints	35
+Switch	100

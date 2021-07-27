@@ -1,0 +1,5 @@
+Glasses	15
+Argon_gas	87
+Accessories	56
+Paints	38
+Grinding_discs	57

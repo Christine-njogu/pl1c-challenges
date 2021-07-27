@@ -1,0 +1,4 @@
+Galvanised_sheets	33
+Carpet	72
+Paints	39
+Primer	70

@@ -1,0 +1,5 @@
+Masking_tapes	17
+Aluminum_mouldings	0
+Rubbers	81
+Adhesives	48
+Body_filler	42

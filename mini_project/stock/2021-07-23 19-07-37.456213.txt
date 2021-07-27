@@ -1,0 +1,4 @@
+Drill_bits	72
+Aluminum_mouldings	37
+Channels	42
+Mig_wire	31

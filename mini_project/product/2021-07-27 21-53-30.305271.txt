@@ -1,0 +1,2 @@
+Frame_prod	0
+Finishings	8

@@ -1,0 +1,5 @@
+Switch	10
+Drill_bits	94
+Pop_rivets	10
+Rubbers	36
+Sand_paper	51

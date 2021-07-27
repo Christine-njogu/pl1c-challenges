@@ -1,0 +1,4 @@
+Glasses	57
+Electrical_wires	22
+Fasteners	23
+Welding_rods	95

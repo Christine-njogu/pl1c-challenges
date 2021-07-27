@@ -1,0 +1,4 @@
+Tubes	0
+Body_filler	42
+Switch	67
+Electrical_wires	8

@@ -1,0 +1,4 @@
+Mig_wire	54
+Argon_gas	32
+Pop_rivets	56
+Reflectors	91

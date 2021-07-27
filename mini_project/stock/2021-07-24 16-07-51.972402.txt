@@ -1,0 +1,5 @@
+Adhesives	20
+Reflectors	71
+Body_filler	96
+Angle_irons	92
+Budget_locks	42

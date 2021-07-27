@@ -1,0 +1,2 @@
+Electric_prod	7
+Paint_prod	5

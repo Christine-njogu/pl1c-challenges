@@ -1,0 +1,5 @@
+Aluminum_mouldings	56
+Drill_bits	76
+Bulbs	92
+Adhesives	65
+Insulation_tapes	98

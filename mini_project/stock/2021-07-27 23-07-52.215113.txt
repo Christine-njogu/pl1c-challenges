@@ -1,0 +1,4 @@
+Carpet	40
+Paints	77
+Adhesives	94
+Rubbers	0

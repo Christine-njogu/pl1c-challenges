@@ -1,0 +1,4 @@
+Galvanised_sheets	82
+Glasses	4
+Bulbs	37
+Paints	97

@@ -1,0 +1,2 @@
+Galvanised_sheets	20
+Grinding_discs	78

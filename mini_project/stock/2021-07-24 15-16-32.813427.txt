@@ -1,0 +1,2 @@
+Drill_bits	35
+Rubbers	70

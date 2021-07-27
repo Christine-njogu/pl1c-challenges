@@ -1,0 +1,4 @@
+Galvanised_sheets	48
+Reflectors	86
+Tubes	34
+Window_locks	86

@@ -1,0 +1,5 @@
+Aluminum_mouldings	89
+Pop_rivets	97
+Mig_wire	72
+Carpet	44
+Budget_locks	41

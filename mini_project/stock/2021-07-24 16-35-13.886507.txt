@@ -1,0 +1,3 @@
+Drill_bits	59
+Glasses	94
+Argon_gas	37

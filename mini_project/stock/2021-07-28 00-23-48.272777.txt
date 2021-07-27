@@ -1,0 +1,3 @@
+Pop_rivets	76
+Mig_wire	9
+Galvanised_sheets	86

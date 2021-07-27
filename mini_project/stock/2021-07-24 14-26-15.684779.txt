@@ -1,0 +1,3 @@
+Paints	9
+Bulbs	3
+Carpet	71

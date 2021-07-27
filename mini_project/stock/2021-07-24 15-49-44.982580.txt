@@ -1,0 +1,2 @@
+Carpet	15
+Sand_paper	21

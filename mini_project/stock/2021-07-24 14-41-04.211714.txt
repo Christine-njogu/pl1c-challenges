@@ -1,0 +1,5 @@
+Masking_tapes	52
+Body_filler	74
+Channels	44
+Reflectors	64
+Adhesives	46

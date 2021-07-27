@@ -1,0 +1,2 @@
+Finishings	5
+Electric_prod	2

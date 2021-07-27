@@ -1,0 +1,5 @@
+Aluminum_mouldings	85
+Carpet	45
+Body_filler	19
+Channels	31
+Glasses	37

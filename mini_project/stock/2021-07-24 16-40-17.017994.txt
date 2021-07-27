@@ -1,0 +1,4 @@
+Primer	60
+Switch	76
+Tubes	40
+Fasteners	4

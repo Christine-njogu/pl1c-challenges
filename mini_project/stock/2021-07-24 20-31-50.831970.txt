@@ -1,0 +1,5 @@
+Welding_rods	29
+Thinner	62
+Reflectors	43
+Budget_locks	52
+Window_locks	96

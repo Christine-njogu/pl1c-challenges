@@ -1,0 +1,2 @@
+Paint_prod	7
+Frame_prod	2

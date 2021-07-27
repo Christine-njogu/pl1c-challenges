@@ -1,0 +1,4 @@
+Channels	75
+Fasteners	11
+Pop_rivets	29
+Masking_tapes	2

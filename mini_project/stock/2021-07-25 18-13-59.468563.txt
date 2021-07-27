@@ -1,0 +1,5 @@
+Mig_wire	21
+Adhesives	0
+Switch	2
+Rubbers	65
+Galvanised_sheets	80

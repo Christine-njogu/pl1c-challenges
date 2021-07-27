@@ -1,0 +1,4 @@
+Switch	30
+Pop_rivets	34
+Insulation_tapes	27
+Grinding_discs	11

@@ -1,0 +1,2 @@
+Frame_prod	6
+Electric_prod	5

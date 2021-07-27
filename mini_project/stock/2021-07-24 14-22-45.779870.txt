@@ -1,0 +1,3 @@
+Primer	6
+Fasteners	1
+Adhesives	65

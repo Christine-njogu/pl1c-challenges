@@ -1,0 +1,4 @@
+Switch	28
+Paints	30
+Body_filler	20
+Primer	62

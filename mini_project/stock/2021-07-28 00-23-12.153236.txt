@@ -1,0 +1,4 @@
+Grinding_discs	100
+Angle_irons	37
+Reflectors	65
+Tubes	28

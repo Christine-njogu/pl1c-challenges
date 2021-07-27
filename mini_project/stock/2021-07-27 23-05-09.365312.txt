@@ -1,0 +1,3 @@
+Argon_gas	72
+Thinner	18
+Grinding_discs	40

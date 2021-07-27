@@ -1,0 +1,5 @@
+Adhesives	20
+Body_filler	70
+Reflectors	69
+Masking_tapes	100
+Accessories	54

@@ -1,0 +1,3 @@
+Paints	90
+Carpet	25
+Rubbers	48

@@ -1,0 +1,4 @@
+Fasteners	57
+Argon_gas	28
+Switch	38
+Accessories	10

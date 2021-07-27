@@ -1,0 +1,3 @@
+Glasses	23
+Insulation_tapes	92
+Grinding_discs	29

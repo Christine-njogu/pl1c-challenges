@@ -1,0 +1,5 @@
+Body_filler	27
+Bulbs	54
+Pop_rivets	29
+Window_locks	13
+Grinding_discs	70

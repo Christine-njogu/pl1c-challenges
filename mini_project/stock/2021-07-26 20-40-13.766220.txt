@@ -1,0 +1,3 @@
+Carpet	94
+Argon_gas	16
+Bulbs	67

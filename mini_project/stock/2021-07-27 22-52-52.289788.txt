@@ -1,0 +1,5 @@
+Drill_bits	82
+Budget_locks	88
+Carpet	41
+Switch	74
+Masking_tapes	44

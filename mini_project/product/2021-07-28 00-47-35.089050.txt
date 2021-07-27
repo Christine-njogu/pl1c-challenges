@@ -1,0 +1,2 @@
+Frame_prod	6
+Glass_prod	5

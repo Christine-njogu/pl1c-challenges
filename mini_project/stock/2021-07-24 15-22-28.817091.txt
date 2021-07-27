@@ -1,0 +1,3 @@
+Budget_locks	24
+Paints	10
+Insulation_tapes	7

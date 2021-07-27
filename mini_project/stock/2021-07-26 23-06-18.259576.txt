@@ -1,0 +1,4 @@
+Mig_wire	55
+Aluminum_mouldings	21
+Welding_rods	14
+Masking_tapes	78

@@ -1,0 +1,5 @@
+Adhesives	93
+Carpet	6
+Angle_irons	94
+Pop_rivets	98
+Mig_wire	8

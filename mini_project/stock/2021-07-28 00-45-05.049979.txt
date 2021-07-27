@@ -1,0 +1,4 @@
+Thinner	64
+Glasses	8
+Masking_tapes	73
+Paints	74

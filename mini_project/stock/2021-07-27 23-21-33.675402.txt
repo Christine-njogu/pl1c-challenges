@@ -1,0 +1,2 @@
+Welding_rods	75
+Aluminum_mouldings	20

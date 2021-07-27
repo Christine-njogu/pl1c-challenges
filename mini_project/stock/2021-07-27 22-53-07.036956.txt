@@ -1,0 +1,4 @@
+Argon_gas	72
+Budget_locks	8
+Aluminum_mouldings	74
+Drill_bits	38

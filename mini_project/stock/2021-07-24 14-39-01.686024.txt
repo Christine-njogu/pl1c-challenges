@@ -1,0 +1,3 @@
+Aluminum_mouldings	9
+Sand_paper	82
+Rubbers	93

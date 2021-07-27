@@ -1,0 +1,4 @@
+Grinding_discs	98
+Primer	11
+Argon_gas	42
+Switch	98

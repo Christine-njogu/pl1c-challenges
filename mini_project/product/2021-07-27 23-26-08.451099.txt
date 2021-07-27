@@ -1,0 +1,3 @@
+Glass_prod	3
+Finishings	5
+Paint_prod	6

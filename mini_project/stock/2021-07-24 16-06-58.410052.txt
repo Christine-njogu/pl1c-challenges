@@ -1,0 +1,4 @@
+Window_locks	2
+Primer	28
+Accessories	36
+Electrical_wires	85

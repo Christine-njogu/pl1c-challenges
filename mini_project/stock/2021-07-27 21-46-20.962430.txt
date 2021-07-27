@@ -1,0 +1,4 @@
+Primer	100
+Welding_rods	40
+Reflectors	15
+Galvanised_sheets	30

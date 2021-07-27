@@ -1,0 +1,3 @@
+Body_filler	4
+Argon_gas	50
+Window_locks	36

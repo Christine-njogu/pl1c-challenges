@@ -1,0 +1,3 @@
+Masking_tapes	13
+Switch	66
+Sand_paper	85

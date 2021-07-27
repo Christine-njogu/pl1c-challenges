@@ -1,0 +1,3 @@
+Window_locks	61
+Grinding_discs	88
+Budget_locks	12

@@ -1,0 +1,3 @@
+Channels	86
+Glasses	68
+Electrical_wires	42
