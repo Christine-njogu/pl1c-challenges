@@ -1,0 +1,3 @@
+Adhesives	32
+Insulation_tapes	23
+Welding_rods	44

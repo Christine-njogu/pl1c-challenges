@@ -1,0 +1,5 @@
+Electrical_wires	46
+Insulation_tapes	66
+Tubes	13
+Accessories	40
+Reflectors	13

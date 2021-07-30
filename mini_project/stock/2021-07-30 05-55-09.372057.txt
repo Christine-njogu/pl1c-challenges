@@ -1,0 +1,5 @@
+Primer	36
+Aluminum_mouldings	91
+Adhesives	91
+Window_locks	91
+Tubes	55

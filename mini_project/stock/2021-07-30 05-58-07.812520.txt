@@ -1,0 +1,5 @@
+Galvanised_sheets	71
+Fasteners	22
+Window_locks	6
+Argon_gas	54
+Insulation_tapes	97

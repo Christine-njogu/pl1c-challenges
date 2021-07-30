@@ -1,0 +1,3 @@
+Finishings	9
+Glass_prod	7
+Electric_prod	9
